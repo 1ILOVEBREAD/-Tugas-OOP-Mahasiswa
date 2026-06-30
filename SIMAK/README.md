@@ -221,9 +221,8 @@ Setiap class memiliki tanggung jawab yang berbeda sesuai fungsi masing-masing se
 
 ## Author
 
-**Nama** : Yabes Paskah Sinaga
-
-**NIM** : 2515101107
+**Nama** : Aryananta Darma Yasa
+**NIM** : 2515101137
 
 **Program Studi** : Ilmu Komputer
 
