@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/view/Dashboard.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/view/LoginForm.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/view/UITheme.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/view/panelDosen.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/view/panelInputNilai.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/controller/CourseController.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/controller/StudentController.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/controller/KrsController.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/view/panelMahasiswa.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/model/Student.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/dao/StudentDAO.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/model/Person.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/model/Course.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/SimAkademi.java</file>
+            <file>file:/home/bread/nilaimahasiswa/src/simakademi/view/panelMataKuliah.java</file>
+        </group>
+    </open-files>
+</project-private>
